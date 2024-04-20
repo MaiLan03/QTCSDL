@@ -1,0 +1,17 @@
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.AssemblyReference.cache
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.bangchamcong.resources
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.bangthcc.resources
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.bangthluong.resources
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Cong.resources
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Luong.resources
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.main.resources
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.nhanvien.resources
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.Properties.Resources.resources
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.GenerateResource.cache
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe.config
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.exe
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\bin\Debug\QuanLyNhanVien.pdb
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.exe
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.pdb
+D:\KÌ 1 2023 - 2024\QTCSDL\BÀI TẬP LỚN\QuanLyNhanVien\QuanLyNhanVien\obj\Debug\QuanLyNhanVien.login.resources
